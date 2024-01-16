@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 2,
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Brown",
+    "email": "sophia.brown@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 7,
+    "name": "Jack Miller",
+    "email": "jack.miller@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Davis",
+    "email": "olivia.davis@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 9,
+    "name": "Daniel White",
+    "email": "daniel.white@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 10,
+    "name": "Emma Wilson",
+    "email": "emma.wilson@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 11,
+    "name": "Aiden Thomas",
+    "email": "aiden.thomas@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 12,
+    "name": "Mia Garcia",
+    "email": "mia.garcia@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 13,
+    "name": "Ethan Anderson",
+    "email": "ethan.anderson@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 14,
+    "name": "Isabella Martin",
+    "email": "isabella.martin@example.com",
+    "profilePic": "/proPic.webp"
+  },
+  {
+    "id": 15,
+    "name": "William Harris",
+    "email": "william.harris@example.com",
+    "profilePic": "/proPic.webp"
+  }
+]
